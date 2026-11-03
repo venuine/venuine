@@ -17,7 +17,7 @@
 <br/>
 
 <a id="about"></a>
-<h2 align="center">✦ About Me ✦</h2>
+<table width="100%"><tr><td width="8%" align="left"><sub>✦</sub></td><td width="84%" align="center"><h2>About Me</h2></td><td width="8%" align="right"><sub>✦</sub></td></tr></table>
 
 I'm **Vien**, a developer focused on building **web applications, responsive interfaces, and integrated systems**. Front-end development is where I spend most of my time, but my project experience also includes server-side development, database design, REST API integrations, and deployment.
 
@@ -27,45 +27,61 @@ My projects include **e-commerce and inventory management, property catalogues, 
 
 ### What I'm working toward
 
-My goal is to build software that people can confidently use — applications that solve practical problems without compromising the experience of using them. I want to take on more substantial projects, contribute to teams building real products, and strengthen my ability to design, implement, and maintain complete applications.
+My goal is to create **useful, well-designed software that makes a meaningful difference to the people using it**. I want to contribute to professional development teams, take responsibility for larger projects, and keep improving how I design, develop, and maintain complete applications.
 
-Longer term, I'd like to develop **original products and services**, not just one-off demonstrations: systems that can grow, serve actual users, and improve through continued development. I also want to bring more character into web experiences through thoughtful interaction and visual design.
+Over the longer term, **I want to create games of my own**, bringing what I've learned from front-end development, UI design, and user interaction into gameplay interfaces and player experiences. I see web applications and games as two different opportunities to solve design problems, communicate information, and build something people enjoy using.
 
+I also want to work on a wide range of **products and services that benefit other people**. Whether that's a practical business platform, a tool that simplifies everyday work, or an interactive experience, I want to develop ideas into products with a clear purpose and real users.
 <br/>
 <div align="center"><img src="./assets/ui-divider.svg" width="100%" alt="" /></div>
 <br/>
 
 <a id="selected-work"></a>
-<h2 align="center">✦ Selected Work ✦</h2>
+<table width="100%"><tr><td width="8%" align="left"><sub>✦</sub></td><td width="84%" align="center"><h2>Selected Work</h2></td><td width="8%" align="right"><sub>✦</sub></td></tr></table>
 
 <div align="center"><sub>APPLICATIONS &nbsp; ✦ &nbsp; SYSTEMS &nbsp; ✦ &nbsp; COLLABORATIVE PROJECTS</sub></div>
 
 <br/>
 
-<table><tr><td width="23%" valign="middle"><img src="./assets/project-manson.svg" width="100%" alt="Abstract graphical symbol for Manson Trading" /></td><td valign="middle"><h3>Manson Trading</h3><p><strong>E-Commerce &amp; Inventory Management</strong></p><p>An e-commerce application featuring inventory workflows and AI-integrated modules to support business operations.</p><p><sub>E-Commerce &nbsp; ✦ &nbsp; Inventory Management &nbsp; ✦ &nbsp; AI Integration</sub></p></td></tr></table>
-
-<br/>
-
-<table><tr><td width="23%" valign="middle"><img src="./assets/project-trust.svg" width="100%" alt="Abstract graphical symbol for TrustHomePH" /></td><td valign="middle"><h3>TrustHomePH</h3><p><strong>Bank-Acquired Property Marketplace</strong></p><p>A marketplace and catalogue for bank-acquired real estate, organized around property discovery and browsing.</p><p><sub>Marketplace &nbsp; ✦ &nbsp; Web Application &nbsp; ✦ &nbsp; Property Catalogue</sub></p></td></tr></table>
-
-<br/>
-
-<table><tr><td width="23%" valign="middle"><img src="./assets/project-edi.svg" width="100%" alt="Abstract graphical symbol for Electronic Data Interchange System" /></td><td valign="middle"><h3>Electronic Data Interchange System</h3><p><strong>Hotel Resource &amp; Supply-Chain Integration</strong></p><p>A collaborative application linking hotel operations, retailers, manufacturers, and logistics through REST APIs and automated ordering workflows.</p><p><strong>My contributions:</strong> Front-end implementation, back-end integrations, API endpoints, and database functionality.</p><p><sub>REST APIs &nbsp; ✦ &nbsp; Workflow Automation &nbsp; ✦ &nbsp; Systems Integration</sub></p></td></tr></table>
-
-<sub>Public showcases and detailed documentation for selected collaborative projects will be linked when available. The illustrations above are interface-themed artwork, not application screenshots.</sub>
+<table width="100%">
+<thead><tr><th colspan="2" align="left">Project</th><th align="center">Source Code</th><th align="center">Live View</th></tr></thead>
+<tbody>
+<tr>
+<td width="20%" valign="middle"><img src="./assets/project-manson.svg" width="100%" alt="Decorative abstract artwork for Manson Trading"/></td>
+<td width="48%" valign="middle"><strong>Manson Trading</strong><br/><sub>E-Commerce &amp; Inventory Management</sub><p>E-commerce application with integrated inventory workflows and AI-powered modules for business operations.</p><sub>Commerce ✦ Inventory ✦ AI integration</sub></td>
+<td width="16%" align="center" valign="middle"><sub>Not public yet</sub></td>
+<td width="16%" align="center" valign="middle"><sub>Not available yet</sub></td>
+</tr>
+<tr>
+<td width="20%" valign="middle"><img src="./assets/project-trust.svg" width="100%" alt="Decorative abstract artwork for TrustHomePH"/></td>
+<td width="48%" valign="middle"><strong>TrustHomePH</strong><br/><sub>Bank-Acquired Property Marketplace</sub><p>Marketplace and property catalogue for browsing and organizing bank-acquired real estate.</p><sub>Marketplace ✦ Web Application</sub></td>
+<td width="16%" align="center" valign="middle"><sub>Not public yet</sub></td>
+<td width="16%" align="center" valign="middle"><sub>Not available yet</sub></td>
+</tr>
+<tr>
+<td width="20%" valign="middle"><img src="./assets/project-edi.svg" width="100%" alt="Decorative abstract artwork for Electronic Data Interchange System"/></td>
+<td width="48%" valign="middle"><strong>Electronic Data Interchange System</strong><br/><sub>Hotel Resource &amp; Supply-Chain Integration</sub><p>Collaborative hotel resource-management system connecting retail, manufacturing, and logistics through REST APIs and automated order workflows.<br/><br/><strong>My contributions:</strong> Front-end implementation, back-end integration, API endpoints, and database functionality.</p><sub>REST APIs ✦ Automation ✦ Integration</sub></td>
+<td width="16%" align="center" valign="middle"><sub>Not public yet</sub></td>
+<td width="16%" align="center" valign="middle"><sub>Not available yet</sub></td>
+</tr>
+</tbody>
+</table>
+<sub>Source Code and Live View fields are reserved for verified, shareable project links. Some work belongs to collaborative repositories or has no public deployment. Illustrations are original decorative artwork, not application screenshots.</sub>
 
 <br/>
 <div align="center"><img src="./assets/ui-divider.svg" width="100%" alt="" /></div>
 <br/>
 
 <a id="current-projects"></a>
-<h2 align="center">✦ Current Projects ✦</h2>
+<table width="100%"><tr><td width="8%" align="left"><sub>✦</sub></td><td width="84%" align="center"><h2>Current Projects</h2></td><td width="8%" align="right"><sub>✦</sub></td></tr></table>
 
-| Project | Overview | Stage |
-|:---|:---|:---|
-| **Royal Guard** | Discord verification and server-management bot with a web dashboard. | ![In development](https://img.shields.io/badge/IN_DEVELOPMENT-4C4B4A?style=flat-square&labelColor=D4B272) |
-| **CampusGigs** | A service marketplace platform concept. | ![Planning](https://img.shields.io/badge/PLANNING-6D665D?style=flat-square&labelColor=E3D5B9) |
-| **Personal Portfolio** | An interactive developer portfolio with a custom interface design system. | ![In design](https://img.shields.io/badge/IN_DESIGN-4C4B4A?style=flat-square&labelColor=D4B272) |
+<table width="100%">
+<thead><tr><th width="22%" align="left">Project</th><th width="58%" align="left">Overview</th><th width="20%" align="center">Stage</th></tr></thead>
+<tbody>
+<tr><td><strong>Royal Guard</strong></td><td>Discord verification and server-management bot with a web dashboard.</td><td align="center"><img src="https://img.shields.io/badge/IN_DEVELOPMENT-4C4B4A?style=flat-square&amp;labelColor=D4B272" alt="In development"/></td></tr>
+<tr><td><strong>CampusGigs</strong></td><td>Service marketplace platform concept.</td><td align="center"><img src="https://img.shields.io/badge/PLANNING-6D665D?style=flat-square&amp;labelColor=E3D5B9" alt="Planning"/></td></tr>
+<tr><td><strong>Personal Portfolio</strong></td><td>Interactive developer portfolio with a custom interface design system.</td><td align="center"><img src="https://img.shields.io/badge/IN_DESIGN-4C4B4A?style=flat-square&amp;labelColor=D4B272" alt="In design"/></td></tr>
+</tbody></table>
 
 <sub>Royal Guard's repository is currently private. Public demos will be linked when available.</sub>
 
@@ -74,13 +90,13 @@ Longer term, I'd like to develop **original products and services**, not just on
 <br/>
 
 <a id="tech-stack"></a>
-<h2 align="center">✦ Technical Skills ✦</h2>
+<table width="100%"><tr><td width="8%" align="left"><sub>✦</sub></td><td width="84%" align="center"><h2>Technical Skills</h2></td><td width="8%" align="right"><sub>✦</sub></td></tr></table>
 
 <div align="center"><sub>TECHNOLOGIES USED IN DEVELOPMENT, INTEGRATION &amp; DEPLOYMENT</sub></div>
 
 <br/>
 
-<table><tr><td width="19%" valign="middle"><strong>FRONT-END</strong></td><td valign="middle"><img src="https://img.shields.io/badge/HTML5-F0EDE7?style=flat-square&logo=html5&logoColor=2F2E2C&labelColor=F0EDE7" alt="HTML5" height="26"/> <img src="https://img.shields.io/badge/CSS3-F0EDE7?style=flat-square&logo=css&logoColor=2F2E2C&labelColor=F0EDE7" alt="CSS3" height="26"/> <img src="https://img.shields.io/badge/JavaScript-F0EDE7?style=flat-square&logo=javascript&logoColor=2F2E2C&labelColor=F0EDE7" alt="JavaScript" height="26"/> <img src="https://img.shields.io/badge/React-F0EDE7?style=flat-square&logo=react&logoColor=2F2E2C&labelColor=F0EDE7" alt="React" height="26"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-F0EDE7?style=flat-square&logo=tailwindcss&logoColor=2F2E2C&labelColor=F0EDE7" alt="Tailwind CSS" height="26"/> <img src="https://img.shields.io/badge/Vite-F0EDE7?style=flat-square&logo=vite&logoColor=2F2E2C&labelColor=F0EDE7" alt="Vite" height="26"/></td></tr>
+<table width="100%"><tr><td width="19%" valign="middle"><strong>FRONT-END</strong></td><td width="81%" valign="middle"><img src="https://img.shields.io/badge/HTML5-F0EDE7?style=flat-square&logo=html5&logoColor=2F2E2C&labelColor=F0EDE7" alt="HTML5" height="26"/> <img src="https://img.shields.io/badge/CSS3-F0EDE7?style=flat-square&logo=css&logoColor=2F2E2C&labelColor=F0EDE7" alt="CSS3" height="26"/> <img src="https://img.shields.io/badge/JavaScript-F0EDE7?style=flat-square&logo=javascript&logoColor=2F2E2C&labelColor=F0EDE7" alt="JavaScript" height="26"/> <img src="https://img.shields.io/badge/React-F0EDE7?style=flat-square&logo=react&logoColor=2F2E2C&labelColor=F0EDE7" alt="React" height="26"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-F0EDE7?style=flat-square&logo=tailwindcss&logoColor=2F2E2C&labelColor=F0EDE7" alt="Tailwind CSS" height="26"/> <img src="https://img.shields.io/badge/Vite-F0EDE7?style=flat-square&logo=vite&logoColor=2F2E2C&labelColor=F0EDE7" alt="Vite" height="26"/></td></tr>
 <tr><td width="19%" valign="middle"><strong>BACK-END</strong></td><td valign="middle"><img src="https://img.shields.io/badge/Node.js-F0EDE7?style=flat-square&logo=nodedotjs&logoColor=2F2E2C&labelColor=F0EDE7" alt="Node.js" height="26"/> <img src="https://img.shields.io/badge/PHP-F0EDE7?style=flat-square&logo=php&logoColor=2F2E2C&labelColor=F0EDE7" alt="PHP" height="26"/> <img src="https://img.shields.io/badge/Laravel-F0EDE7?style=flat-square&logo=laravel&logoColor=2F2E2C&labelColor=F0EDE7" alt="Laravel" height="26"/> <img src="https://img.shields.io/badge/REST%20APIs-F0EDE7?style=flat-square&logoColor=2F2E2C&labelColor=F0EDE7" alt="REST APIs" height="26"/></td></tr>
 <tr><td width="19%" valign="middle"><strong>DATA & CLOUD</strong></td><td valign="middle"><img src="https://img.shields.io/badge/MySQL-F0EDE7?style=flat-square&logo=mysql&logoColor=2F2E2C&labelColor=F0EDE7" alt="MySQL" height="26"/> <img src="https://img.shields.io/badge/SQLite-F0EDE7?style=flat-square&logo=sqlite&logoColor=2F2E2C&labelColor=F0EDE7" alt="SQLite" height="26"/> <img src="https://img.shields.io/badge/Firebase-F0EDE7?style=flat-square&logo=firebase&logoColor=2F2E2C&labelColor=F0EDE7" alt="Firebase" height="26"/> <img src="https://img.shields.io/badge/AWS-F0EDE7?style=flat-square&logo=amazonwebservices&logoColor=2F2E2C&labelColor=F0EDE7" alt="AWS" height="26"/> <img src="https://img.shields.io/badge/Google%20Cloud-F0EDE7?style=flat-square&logo=googlecloud&logoColor=2F2E2C&labelColor=F0EDE7" alt="Google Cloud" height="26"/> <img src="https://img.shields.io/badge/Vercel-F0EDE7?style=flat-square&logo=vercel&logoColor=2F2E2C&labelColor=F0EDE7" alt="Vercel" height="26"/></td></tr>
 <tr><td width="19%" valign="middle"><strong>LANGUAGES</strong></td><td valign="middle"><img src="https://img.shields.io/badge/C%23-F0EDE7?style=flat-square&logo=dotnet&logoColor=2F2E2C&labelColor=F0EDE7" alt="C#" height="26"/> <img src="https://img.shields.io/badge/Java-F0EDE7?style=flat-square&logoColor=2F2E2C&labelColor=F0EDE7" alt="Java" height="26"/></td></tr>
@@ -93,18 +109,21 @@ Longer term, I'd like to develop **original products and services**, not just on
 <br/>
 
 <a id="contact"></a>
-<h2 align="center">✦ Contact ✦</h2>
+<table width="100%"><tr><td width="8%" align="left"><sub>✦</sub></td><td width="84%" align="center"><h2>Contact</h2></td><td width="8%" align="right"><sub>✦</sub></td></tr></table>
 
 <div align="center">
 
-For project inquiries or collaboration:
+For project inquiries, collaboration, or professional opportunities:
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-venuine-3D3C3B?style=for-the-badge&logo=github&logoColor=E4C47D)](https://github.com/venuine)
+<a href="https://github.com/venuine"><img src="https://img.shields.io/badge/GitHub-venuine-3D3C3B?style=for-the-badge&amp;logo=github&amp;logoColor=E4C47D" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/in/vmulaurente/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3D3C3B?style=for-the-badge&amp;logo=linkedin&amp;logoColor=E4C47D" alt="LinkedIn profile"/></a>
+<a href="mailto:vmulaurente@proton.me"><img src="https://img.shields.io/badge/Email-Contact-3D3C3B?style=for-the-badge&amp;logo=protonmail&amp;logoColor=E4C47D" alt="Send email"/></a>
 
-<sub>More professional contact links can be added here.</sub>
+<br/>
 
+<sub><a href="mailto:vmulaurente@proton.me">vmulaurente@proton.me</a></sub>
 <br/><br/>
 
 <img src="./assets/ui-divider.svg" width="100%" alt="" />
