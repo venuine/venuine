@@ -17,7 +17,7 @@
 <br/>
 
 <a id="about"></a>
-<table width="100%"><tr><td width="8%" align="left"><sub>✦</sub></td><td width="84%" align="center"><h2>About Me</h2></td><td width="8%" align="right"><sub>✦</sub></td></tr></table>
+<h2 align="center"><sub>✦</sub> &nbsp; About Me &nbsp; <sub>✦</sub></h2>
 
 I'm **Vien**, a developer focused on building **web applications, responsive interfaces, and integrated systems**. Front-end development is where I spend most of my time, but my project experience also includes server-side development, database design, REST API integrations, and deployment.
 
@@ -37,14 +37,14 @@ I also want to work on a wide range of **products and services that benefit othe
 <br/>
 
 <a id="selected-work"></a>
-<table width="100%"><tr><td width="8%" align="left"><sub>✦</sub></td><td width="84%" align="center"><h2>Selected Work</h2></td><td width="8%" align="right"><sub>✦</sub></td></tr></table>
+<h2 align="center"><sub>✦</sub> &nbsp; Selected Work &nbsp; <sub>✦</sub></h2>
 
 <div align="center"><sub>APPLICATIONS &nbsp; ✦ &nbsp; SYSTEMS &nbsp; ✦ &nbsp; COLLABORATIVE PROJECTS</sub></div>
 
 <br/>
 
 <table width="100%">
-<thead><tr><th colspan="2" align="left">Project</th><th align="center">Source Code</th><th align="center">Live View</th></tr></thead>
+<thead><tr><td colspan="3" height="1" style="padding:0"><img src="./assets/table-width-spacer.svg" width="840" height="1" alt="" /></td></tr><tr><th colspan="2" align="left">Project</th><th align="center">Source Code</th><th align="center">Live View</th></tr></thead>
 <tbody>
 <tr>
 <td width="20%" valign="middle"><img src="./assets/project-manson.svg" width="100%" alt="Decorative abstract artwork for Manson Trading"/></td>
@@ -73,10 +73,10 @@ I also want to work on a wide range of **products and services that benefit othe
 <br/>
 
 <a id="current-projects"></a>
-<table width="100%"><tr><td width="8%" align="left"><sub>✦</sub></td><td width="84%" align="center"><h2>Current Projects</h2></td><td width="8%" align="right"><sub>✦</sub></td></tr></table>
+<h2 align="center"><sub>✦</sub> &nbsp; Current Projects &nbsp; <sub>✦</sub></h2>
 
 <table width="100%">
-<thead><tr><th width="22%" align="left">Project</th><th width="58%" align="left">Overview</th><th width="20%" align="center">Stage</th></tr></thead>
+<thead><tr><td colspan="3" height="1" style="padding:0"><img src="./assets/table-width-spacer.svg" width="840" height="1" alt="" /></td></tr><tr><th width="22%" align="left">Project</th><th width="58%" align="left">Overview</th><th width="20%" align="center">Stage</th></tr></thead>
 <tbody>
 <tr><td><strong>Royal Guard</strong></td><td>Discord verification and server-management bot with a web dashboard.</td><td align="center"><img src="https://img.shields.io/badge/IN_DEVELOPMENT-4C4B4A?style=flat-square&amp;labelColor=D4B272" alt="In development"/></td></tr>
 <tr><td><strong>CampusGigs</strong></td><td>Service marketplace platform concept.</td><td align="center"><img src="https://img.shields.io/badge/PLANNING-6D665D?style=flat-square&amp;labelColor=E3D5B9" alt="Planning"/></td></tr>
@@ -90,13 +90,13 @@ I also want to work on a wide range of **products and services that benefit othe
 <br/>
 
 <a id="tech-stack"></a>
-<table width="100%"><tr><td width="8%" align="left"><sub>✦</sub></td><td width="84%" align="center"><h2>Technical Skills</h2></td><td width="8%" align="right"><sub>✦</sub></td></tr></table>
+<h2 align="center"><sub>✦</sub> &nbsp; Technical Skills &nbsp; <sub>✦</sub></h2>
 
 <div align="center"><sub>TECHNOLOGIES USED IN DEVELOPMENT, INTEGRATION &amp; DEPLOYMENT</sub></div>
 
 <br/>
 
-<table width="100%"><tr><td width="19%" valign="middle"><strong>FRONT-END</strong></td><td width="81%" valign="middle"><img src="https://img.shields.io/badge/HTML5-F0EDE7?style=flat-square&logo=html5&logoColor=2F2E2C&labelColor=F0EDE7" alt="HTML5" height="26"/> <img src="https://img.shields.io/badge/CSS3-F0EDE7?style=flat-square&logo=css&logoColor=2F2E2C&labelColor=F0EDE7" alt="CSS3" height="26"/> <img src="https://img.shields.io/badge/JavaScript-F0EDE7?style=flat-square&logo=javascript&logoColor=2F2E2C&labelColor=F0EDE7" alt="JavaScript" height="26"/> <img src="https://img.shields.io/badge/React-F0EDE7?style=flat-square&logo=react&logoColor=2F2E2C&labelColor=F0EDE7" alt="React" height="26"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-F0EDE7?style=flat-square&logo=tailwindcss&logoColor=2F2E2C&labelColor=F0EDE7" alt="Tailwind CSS" height="26"/> <img src="https://img.shields.io/badge/Vite-F0EDE7?style=flat-square&logo=vite&logoColor=2F2E2C&labelColor=F0EDE7" alt="Vite" height="26"/></td></tr>
+<table width="100%"><tr><td colspan="2" height="1"><img src="./assets/table-width-spacer.svg" width="840" height="1" alt="" /></td></tr><tr><td width="19%" valign="middle"><strong>FRONT-END</strong></td><td width="81%" valign="middle"><img src="https://img.shields.io/badge/HTML5-F0EDE7?style=flat-square&logo=html5&logoColor=2F2E2C&labelColor=F0EDE7" alt="HTML5" height="26"/> <img src="https://img.shields.io/badge/CSS3-F0EDE7?style=flat-square&logo=css&logoColor=2F2E2C&labelColor=F0EDE7" alt="CSS3" height="26"/> <img src="https://img.shields.io/badge/JavaScript-F0EDE7?style=flat-square&logo=javascript&logoColor=2F2E2C&labelColor=F0EDE7" alt="JavaScript" height="26"/> <img src="https://img.shields.io/badge/React-F0EDE7?style=flat-square&logo=react&logoColor=2F2E2C&labelColor=F0EDE7" alt="React" height="26"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-F0EDE7?style=flat-square&logo=tailwindcss&logoColor=2F2E2C&labelColor=F0EDE7" alt="Tailwind CSS" height="26"/> <img src="https://img.shields.io/badge/Vite-F0EDE7?style=flat-square&logo=vite&logoColor=2F2E2C&labelColor=F0EDE7" alt="Vite" height="26"/></td></tr>
 <tr><td width="19%" valign="middle"><strong>BACK-END</strong></td><td valign="middle"><img src="https://img.shields.io/badge/Node.js-F0EDE7?style=flat-square&logo=nodedotjs&logoColor=2F2E2C&labelColor=F0EDE7" alt="Node.js" height="26"/> <img src="https://img.shields.io/badge/PHP-F0EDE7?style=flat-square&logo=php&logoColor=2F2E2C&labelColor=F0EDE7" alt="PHP" height="26"/> <img src="https://img.shields.io/badge/Laravel-F0EDE7?style=flat-square&logo=laravel&logoColor=2F2E2C&labelColor=F0EDE7" alt="Laravel" height="26"/> <img src="https://img.shields.io/badge/REST%20APIs-F0EDE7?style=flat-square&logoColor=2F2E2C&labelColor=F0EDE7" alt="REST APIs" height="26"/></td></tr>
 <tr><td width="19%" valign="middle"><strong>DATA & CLOUD</strong></td><td valign="middle"><img src="https://img.shields.io/badge/MySQL-F0EDE7?style=flat-square&logo=mysql&logoColor=2F2E2C&labelColor=F0EDE7" alt="MySQL" height="26"/> <img src="https://img.shields.io/badge/SQLite-F0EDE7?style=flat-square&logo=sqlite&logoColor=2F2E2C&labelColor=F0EDE7" alt="SQLite" height="26"/> <img src="https://img.shields.io/badge/Firebase-F0EDE7?style=flat-square&logo=firebase&logoColor=2F2E2C&labelColor=F0EDE7" alt="Firebase" height="26"/> <img src="https://img.shields.io/badge/AWS-F0EDE7?style=flat-square&logo=amazonwebservices&logoColor=2F2E2C&labelColor=F0EDE7" alt="AWS" height="26"/> <img src="https://img.shields.io/badge/Google%20Cloud-F0EDE7?style=flat-square&logo=googlecloud&logoColor=2F2E2C&labelColor=F0EDE7" alt="Google Cloud" height="26"/> <img src="https://img.shields.io/badge/Vercel-F0EDE7?style=flat-square&logo=vercel&logoColor=2F2E2C&labelColor=F0EDE7" alt="Vercel" height="26"/></td></tr>
 <tr><td width="19%" valign="middle"><strong>LANGUAGES</strong></td><td valign="middle"><img src="https://img.shields.io/badge/C%23-F0EDE7?style=flat-square&logo=dotnet&logoColor=2F2E2C&labelColor=F0EDE7" alt="C#" height="26"/> <img src="https://img.shields.io/badge/Java-F0EDE7?style=flat-square&logoColor=2F2E2C&labelColor=F0EDE7" alt="Java" height="26"/></td></tr>
@@ -109,7 +109,7 @@ I also want to work on a wide range of **products and services that benefit othe
 <br/>
 
 <a id="contact"></a>
-<table width="100%"><tr><td width="8%" align="left"><sub>✦</sub></td><td width="84%" align="center"><h2>Contact</h2></td><td width="8%" align="right"><sub>✦</sub></td></tr></table>
+<h2 align="center"><sub>✦</sub> &nbsp; Contact &nbsp; <sub>✦</sub></h2>
 
 <div align="center">
 
