@@ -49,8 +49,8 @@ My projects include **e-commerce and inventory management, property catalogues, 
 <tr>
 <td width="20%" valign="middle"><img src="./assets/project-trust.svg" width="100%" alt="Decorative abstract artwork for TrustHomePH"/></td>
 <td width="48%" valign="middle"><strong>TrustHomePH</strong><br/><sub>Bank-Acquired Property Marketplace</sub><p>Marketplace and property catalogue for browsing and organizing bank-acquired real estate.</p><sub>Marketplace ✦ Web Application</sub></td>
-<td width="16%" align="center" valign="middle"><sub>Not public yet</sub></td>
-<td width="16%" align="center" valign="middle"><sub>Not available yet</sub></td>
+<td width="16%" align="center" valign="middle"><a href="https://github.com/carilloandrei9264/team-idle">Source Code</a></td>
+<td width="16%" align="center" valign="middle"><a href="https://trusthome-ph.web.app/">Live View</a></td>
 </tr>
 <tr>
 <td width="20%" valign="middle"><img src="./assets/project-edi.svg" width="100%" alt="Decorative abstract artwork for Electronic Data Interchange System"/></td>
