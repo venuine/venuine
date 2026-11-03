@@ -25,13 +25,7 @@ I enjoy working across both the **visual and technical sides of software**. A go
 
 My projects include **e-commerce and inventory management, property catalogues, hotel supply-chain integration, and Discord administration tools**. I also have experience in game development and enjoy applying ideas from interactive media to interface design.
 
-### What I'm working toward
 
-My goal is to create **useful, well-designed software that makes a meaningful difference to the people using it**. I want to contribute to professional development teams, take responsibility for larger projects, and keep improving how I design, develop, and maintain complete applications.
-
-Over the longer term, **I want to create games of my own**, bringing what I've learned from front-end development, UI design, and user interaction into gameplay interfaces and player experiences. I see web applications and games as two different opportunities to solve design problems, communicate information, and build something people enjoy using.
-
-I also want to work on a wide range of **products and services that benefit other people**. Whether that's a practical business platform, a tool that simplifies everyday work, or an interactive experience, I want to develop ideas into products with a clear purpose and real users.
 <br/>
 <div align="center"><img src="./assets/ui-divider.svg" width="100%" alt="" /></div>
 <br/>
@@ -79,8 +73,6 @@ I also want to work on a wide range of **products and services that benefit othe
 <thead><tr><td colspan="3" height="1" style="padding:0"><img src="./assets/table-width-spacer.svg" width="840" height="1" alt="" /></td></tr><tr><th width="22%" align="left">Project</th><th width="58%" align="left">Overview</th><th width="20%" align="center">Stage</th></tr></thead>
 <tbody>
 <tr><td><strong>Royal Guard</strong></td><td>Discord verification and server-management bot with a web dashboard.</td><td align="center"><img src="https://img.shields.io/badge/IN_DEVELOPMENT-4C4B4A?style=flat-square&amp;labelColor=D4B272" alt="In development"/></td></tr>
-<tr><td><strong>CampusGigs</strong></td><td>Service marketplace platform concept.</td><td align="center"><img src="https://img.shields.io/badge/PLANNING-6D665D?style=flat-square&amp;labelColor=E3D5B9" alt="Planning"/></td></tr>
-<tr><td><strong>Personal Portfolio</strong></td><td>Interactive developer portfolio with a custom interface design system.</td><td align="center"><img src="https://img.shields.io/badge/IN_DESIGN-4C4B4A?style=flat-square&amp;labelColor=D4B272" alt="In design"/></td></tr>
 </tbody></table>
 
 <sub>Royal Guard's repository is currently private. Public demos will be linked when available.</sub>
@@ -103,6 +95,19 @@ I also want to work on a wide range of **products and services that benefit othe
 <tr><td width="19%" valign="middle"><strong>WORKFLOW</strong></td><td valign="middle"><img src="https://img.shields.io/badge/Git-F0EDE7?style=flat-square&logo=git&logoColor=2F2E2C&labelColor=F0EDE7" alt="Git" height="26"/> <img src="https://img.shields.io/badge/GitHub-F0EDE7?style=flat-square&logo=github&logoColor=2F2E2C&labelColor=F0EDE7" alt="GitHub" height="26"/> <img src="https://img.shields.io/badge/API%20Testing-F0EDE7?style=flat-square&logoColor=2F2E2C&labelColor=F0EDE7" alt="API Testing" height="26"/> <img src="https://img.shields.io/badge/Database%20Design-F0EDE7?style=flat-square&logoColor=2F2E2C&labelColor=F0EDE7" alt="Database Design" height="26"/> <img src="https://img.shields.io/badge/System%20Integration-F0EDE7?style=flat-square&logoColor=2F2E2C&labelColor=F0EDE7" alt="System Integration" height="26"/></td></tr></table>
 
 <sub>AWS experience includes EC2, S3, IAM, and Route 53. Additional experience includes API testing and database integration.</sub>
+
+<br/>
+<div align="center"><img src="./assets/ui-divider.svg" width="100%" alt="" /></div>
+<br/>
+
+<a id="goals"></a>
+<h2 align="center"><sub>✦</sub> &nbsp; Goals & Future Direction &nbsp; <sub>✦</sub></h2>
+
+My goal is to create **useful, well-designed software that makes a meaningful difference to the people using it**. I want to contribute to professional development teams, take responsibility for larger projects, and keep improving how I design, develop, and maintain complete applications.
+
+Over the longer term, **I want to create games of my own**, bringing what I've learned from front-end development, UI design, and user interaction into gameplay interfaces and player experiences. I see web applications and games as two different opportunities to solve design problems, communicate information, and build something people enjoy using.
+
+I also want to work on a wide range of **products and services that benefit other people**. Whether that's a practical business platform, a tool that simplifies everyday work, or an interactive experience, I want to develop ideas into products with a clear purpose and real users.
 
 <br/>
 <div align="center"><img src="./assets/ui-divider.svg" width="100%" alt="" /></div>
