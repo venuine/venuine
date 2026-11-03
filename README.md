@@ -44,7 +44,7 @@ I also want to work on a wide range of **products and services that benefit othe
 <br/>
 
 <table width="100%">
-<thead><tr><td colspan="3" height="1" style="padding:0"><img src="./assets/table-width-spacer.svg" width="840" height="1" alt="" /></td></tr><tr><th colspan="2" align="left">Project</th><th align="center">Source Code</th><th align="center">Live View</th></tr></thead>
+<thead><tr><td colspan="4" height="1" style="padding:0"><img src="./assets/table-width-spacer.svg" width="840" height="1" alt="" /></td></tr><tr><th colspan="2" align="left">Project</th><th align="center">Source Code</th><th align="center">Live View</th></tr></thead>
 <tbody>
 <tr>
 <td width="20%" valign="middle"><img src="./assets/project-manson.svg" width="100%" alt="Decorative abstract artwork for Manson Trading"/></td>
