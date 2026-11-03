@@ -1,172 +1,121 @@
- <div align="center">
+<div align="center">
 
-# Oh hi! I'm Vien! 🦉
+**THE CIVILIZATION ARCHIVE**
 
-*Per aspera ad astra — Through hardships to the stars.*
+`PERSONAL LOGBOOK`　/　`VOL. 001`
 
-**`WEB DEVELOPMENT` • `SOFTWARE PROJECTS` • `CREATIVE CODING`**
+# Oh hi, I'm Vien. 🦉
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=729276&center=true&vCenter=true&width=550&lines=Building+little+worlds%2C+one+project+at+a+time.;An+idea+collector+and+occasional+bug+fixer.;Always+curious.+Always+creating." alt="Animated introduction" width="100%" />
+*Per aspera ad astra.*
 
-*Welcome, curious traveler! You've stumbled upon my little corner of GitHub.*
+An ongoing collection of things I've built, things I've learned, and things I haven't quite figured out yet.
+
+**Welcome to the archive.**
 
 </div>
 
 ---
 
-## 🌿 Chapter 01 — A Little About Me
+### 001 / The Person Behind the Projects
 
-I'm **Vien**, a student developer from the Philippines who enjoys turning ideas into working applications.
+I like making things.
 
-My main interest lies in **front-end and web development**, but I also enjoy wandering into back-end systems, databases, APIs, game development, and whatever else happens to catch my curiosity.
+Websites, systems, little experiments, occasionally games — anything that lets me take an idea and turn it into something real.
 
-I like building things that are both useful and enjoyable to interact with. Whether it's a management system, a web application, or an experimental project, I'm always looking for opportunities to learn something new.
+I'm a developer from the Philippines, mostly interested in **front-end and web development**, though I often find myself exploring the other parts of software development too.
 
-A few things you'll probably notice about me:
+I enjoy figuring out how things connect, how they work, and how I might make them a little better.
 
-- 🎨 I enjoy bringing interfaces to life.
-- ⚙️ I like understanding how things work behind the scenes.
-- 🎮 Games and interactive experiences are a big source of inspiration.
-- 📚 I tend to collect more project ideas than I can finish.
-- 🌱 There's always something new I'm trying to learn.
+I don't have everything figured out.
 
-> Every great creation starts somewhere. Usually with an idea, a little curiosity, and a few bugs along the way.
+But that's part of what makes it interesting, isn't it?
 
 ---
 
-## 📖 Chapter 02 — Currently Ongoing Projects
+### 002 / Open Files
 
-*Some pages are still being written...*
+*Ideas currently taking shape.*
 
-### 🛡️ Royal Guard
-**`Discord Bot` · `Web Dashboard` · `Firebase`**
+| File | Project | Current State |
+|:---|:---|:---|
+| `001` | **Royal Guard** — Discord verification and server-management system | In development |
+| `002` | **CampusGigs** — Service marketplace concept | Planning |
+| `003` | **The Civilization Archive** — Personal portfolio and interactive project collection | Planning |
 
-A Discord server-management and verification system with a web-based administration dashboard.
+Some projects take longer than expected. Others turn into something completely different along the way.
 
-Currently refining its features, integrations, and overall experience.
-
-**Status:** 🟢 Active Development
-
-### 🏘️ CampusGigs
-**`Service Marketplace` · `Web Platform` · `Concept`**
-
-A service marketplace concept aiming to make it easier for people to discover, compare, and connect with service providers.
-
-**Status:** 📝 Planning
-
-### 🦉 The Civilization Archive
-**`Personal Portfolio` · `Interactive Web` · `Creative Design`**
-
-A little home for my projects, discoveries, and experiments, imagined as an interactive archive inspired by knowledge, exploration, and creativity.
-
-**Status:** 🌱 Planning
+That's fine. The archive has room for both.
 
 ---
 
-## ✨ Chapter 03 — Featured Projects
+### 003 / Archived Works
 
-*A few creations collected along the journey.*
+*Things that made it out of the idea folder.*
 
-### 🛒 Manson Trading
-**E-Commerce & Inventory Management System**
+**`FILE 004` — Manson Trading**
 
-An e-commerce and inventory management platform with AI-integrated modules designed to support business operations and digital commerce.
+An e-commerce and inventory management system with AI-integrated functionality.
 
-### 🏡 TrustHomePH
-**Bank-Acquired Property Marketplace**
+**`FILE 005` — TrustHomePH**
 
-A property marketplace and catalogue focused on helping users discover and browse bank-acquired real estate.
+A marketplace and catalogue for exploring bank-acquired properties.
 
-### 🔗 Electronic Data Interchange System
-**Hotel Resource Management & Supply-Chain Integration**
+**`FILE 006` — Electronic Data Interchange System**
 
-A collaborative system connecting hotel resource management, retail operations, manufacturers, and logistics through REST APIs and automated order workflows.
+A collaborative hotel resource-management project connecting operational systems through APIs and automated workflows.
 
-My contributions included front-end development, back-end integrations, API endpoints, and database-related functionality.
-
-*📜 Project documentation and public showcases are currently being prepared.*
+*Detailed records, demonstrations, and repository links are being prepared.*
 
 ---
 
-## 🧰 Chapter 04 — Technical Skills
+### 004 / Tools of the Trade
 
-*Every developer has a trusty collection of tools. Here are some of mine!*
+Not every tool I've encountered, but the ones I've worked with along the way.
 
-### 💻 Languages
+| Area | Technologies |
+|:---|:---|
+| Languages | JavaScript, PHP, C#, Java, HTML, CSS, SQL |
+| Frameworks | React, Laravel, Node.js, Tailwind CSS, Vite |
+| Data & Backend | MySQL, SQLite, Firebase, REST APIs |
+| Cloud & Deployment | AWS, Google Cloud, Vercel |
+| Version Control | Git, GitHub |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,php,cs,java,html,css&theme=light" alt="JavaScript, PHP, C Sharp, Java, HTML and CSS" />
-</p>
-
-### 🎨 Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,laravel,nodejs,tailwind,vite&theme=light" alt="React, Laravel, Node.js, Tailwind CSS and Vite" />
-</p>
-
-### 🗃️ Databases & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&theme=light" alt="MySQL, SQLite and Firebase" />
-</p>
-
-REST API Development · Database Design · API Integration
-
-### ☁️ Cloud & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,git,github&theme=light" alt="AWS, Google Cloud, Vercel, Git and GitHub" />
-</p>
-
-AWS EC2 · S3 · IAM · Route 53
+These aren't the limits of what I want to learn. They're just where my journey has taken me so far.
 
 ---
 
-## 🌱 Chapter 05 — Currently Exploring
+### 005 / Notes in the Margins
 
-*The more I learn, the more I realize there's still so much to discover.*
+A few things that tend to catch my attention:
 
-- 🎨 **Creative Web Experiences** — Interactive interfaces, animations, and thoughtful UI/UX.
-- 🏗️ **Software Architecture** — Building applications that stay organized as they grow.
-- ⚙️ **Automation & Integrations** — Making different systems work together.
-- 🎮 **Game Development** — Experimenting with mechanics, environments, and storytelling.
+**Interfaces with personality.** I like websites that feel memorable, not just functional.
 
----
+**Worlds worth exploring.** Games, environments, interactive stories — I enjoy seeing how they come together.
 
-## 🎮 Beyond the Code
+**Systems that just work.** There's something satisfying about connecting several moving parts and watching everything finally cooperate.
 
-There's more to life than semicolons and console logs!
+**Ideas that won't leave me alone.** Unfortunately, these usually arrive while I'm working on something else.
 
-When I'm not developing, you'll probably find me enjoying games, listening to music, exploring creative ideas, or thinking about something new to build.
-
-Sometimes I work on a project because I need it.
-
-Sometimes I work on one because I think it'd be really cool.
-
-And sometimes... I just want to see if I can make it work.
+> Somewhere between "I wonder if this is possible" and "Oh, it actually works" is where I like to be.
 
 ---
 
-## 💌 Chapter 06 — Let's Connect!
+### 006 / Leave a Note
 
-Have an interesting idea? Want to collaborate? Or simply passing through?
+If something here catches your interest, feel free to reach out.
 
-You're always welcome to say hello!
-
-**GitHub:** [@venuine](https://github.com/venuine)
-
-**Portfolio:** The Civilization Archive — *Coming soon!*
+**[GitHub](https://github.com/venuine)** · More ways to connect coming soon.
 
 ---
 
 <div align="center">
 
-### 🌿 Thanks for visiting!
+`END OF CURRENT RECORD`
 
-*Every project is another page in the archive.*
+*The archive is incomplete.*
 
-**Per aspera ad astra.** ✨
+*That's what makes it worth continuing.*
 
-<sub>Made with curiosity, creativity, and a questionable number of browser tabs.</sub>
+**✦ Per aspera ad astra. ✦**
 
 </div>
