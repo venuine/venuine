@@ -43,7 +43,7 @@ My projects include **e-commerce and inventory management, property catalogues, 
 <tr>
 <td width="20%" valign="middle"><img src="./assets/project-manson.svg" width="100%" alt="Decorative abstract artwork for Manson Trading"/></td>
 <td width="48%" valign="middle"><strong>Manson Trading</strong><br/><sub>E-Commerce &amp; Inventory Management</sub><p>E-commerce application with integrated inventory workflows and AI-powered modules for business operations.</p><sub>Commerce ✦ Inventory ✦ AI integration</sub></td>
-<td width="16%" align="center" valign="middle"><sub>Not public yet</sub></td>
+<td width="16%" align="center" valign="middle"><a href="https://github.com/venuine/manson-trading">Source Code</a></td>
 <td width="16%" align="center" valign="middle"><sub>Not available yet</sub></td>
 </tr>
 <tr>
