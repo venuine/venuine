@@ -4,19 +4,19 @@
 
 # Oh hi! I'm Vien!
 
-**Front-End Developer &nbsp; / &nbsp; Web Development &nbsp; / &nbsp; UI/UX &nbsp; / &nbsp; System Integration**
+**Front-End Developer &nbsp; ✦ &nbsp; Web Development &nbsp; ✦ &nbsp; UI/UX &nbsp; ✦ &nbsp; System Integration**
 
-*Per aspera ad astra.*
+*Journey Well.*
 
 <img src="./assets/ui-masthead-footer.svg" width="100%" alt="" />
 
-**[ABOUT](#about) &nbsp; · &nbsp; [SELECTED WORK](#selected-work) &nbsp; · &nbsp; [CURRENT PROJECTS](#current-projects) &nbsp; · &nbsp; [TECH STACK](#tech-stack) &nbsp; · &nbsp; [CONTACT](#contact)**
+<a href="#about"><img src="./assets/nav-about.svg" alt="About" width="18%" /></a> <a href="#selected-work"><img src="./assets/nav-selected-work.svg" alt="Selected Work" width="18%" /></a> <a href="#current-projects"><img src="./assets/nav-current-projects.svg" alt="Current Projects" width="18%" /></a> <a href="#tech-stack"><img src="./assets/nav-tech-stack.svg" alt="Tech Stack" width="18%" /></a> <a href="#contact"><img src="./assets/nav-contact.svg" alt="Contact" width="18%" /></a>
 
 </div>
 
 <a id="about"></a>
 
-## About
+<h2 align="center">✦ About ✦</h2>
 
 I develop **web applications and integrated systems**, with a primary focus on front-end development and UI/UX implementation. My work spans responsive interfaces, back-end functionality, database design, REST API integrations, and cloud infrastructure.
 
@@ -26,7 +26,7 @@ I approach software development with equal attention to **how a system works and
 
 <a id="selected-work"></a>
 
-## Selected Work
+<h2 align="center">✦ Selected Work ✦</h2>
 
 A selection of completed and collaborative applications. Project-specific links and documentation will be added as their public showcases are prepared.
 
@@ -38,7 +38,7 @@ A selection of completed and collaborative applications. Project-specific links 
 <h3>Manson Trading</h3>
 <p><strong>E-Commerce &amp; Inventory Management</strong></p>
 <p>An e-commerce application with integrated inventory workflows and AI-powered modules designed to support business operations.</p>
-<p><code>Web Application</code> · <code>Inventory</code> · <code>AI Integration</code></p>
+<p><code>Web Application</code> ✦ <code>Inventory</code> ✦ <code>AI Integration</code></p>
 
 </td>
 </tr>
@@ -49,7 +49,7 @@ A selection of completed and collaborative applications. Project-specific links 
 <h3>TrustHomePH</h3>
 <p><strong>Bank-Acquired Property Marketplace</strong></p>
 <p>A marketplace and property catalogue designed to present bank-acquired real estate through an organized browsing experience.</p>
-<p><code>Marketplace</code> · <code>Property Catalogue</code></p>
+<p><code>Marketplace</code> ✦ <code>Property Catalogue</code></p>
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ A selection of completed and collaborative applications. Project-specific links 
 <p><strong>Hotel Resource Management &amp; Supply-Chain Integration</strong></p>
 <p>A collaborative system connecting hotel operations, retail, manufacturing, and logistics through REST APIs and automated order workflows.</p>
 <p><strong>Contributions:</strong> Front-end implementation, back-end integrations, API endpoints, and database functionality.</p>
-<p><code>REST APIs</code> · <code>Automation</code> · <code>Systems Integration</code></p>
+<p><code>REST APIs</code> ✦ <code>Automation</code> ✦ <code>Systems Integration</code></p>
 
 </td>
 </tr>
@@ -71,7 +71,7 @@ A selection of completed and collaborative applications. Project-specific links 
 
 <a id="current-projects"></a>
 
-## Current Projects
+<h2 align="center">✦ Current Projects ✦</h2>
 
 | Project | Overview | Status |
 |:---|:---|:---|
@@ -85,7 +85,7 @@ A selection of completed and collaborative applications. Project-specific links 
 
 <a id="tech-stack"></a>
 
-## Technical Skills
+<h2 align="center">✦ Technical Skills ✦</h2>
 
 | Domain | Technologies & Experience |
 |:---|:---|
@@ -99,7 +99,7 @@ A selection of completed and collaborative applications. Project-specific links 
 
 <a id="contact"></a>
 
-## Contact
+<h2 align="center">✦ Contact ✦</h2>
 
 For project inquiries or collaboration:
 
@@ -109,8 +109,8 @@ For project inquiries or collaboration:
 
 <img src="./assets/ui-divider.svg" width="100%" alt="" />
 
-<sub>VIEN / DEVELOPER PROFILE</sub>
+<sub>VIEN ✦ DEVELOPER PROFILE</sub>
 
-*Per aspera ad astra.*
+*Journey Well.*
 
 </div>
