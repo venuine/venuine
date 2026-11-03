@@ -55,8 +55,8 @@ My projects include **e-commerce and inventory management, property catalogues, 
 <tr>
 <td width="20%" valign="middle"><img src="./assets/project-edi.svg" width="100%" alt="Decorative abstract artwork for Electronic Data Interchange System"/></td>
 <td width="48%" valign="middle"><strong>Electronic Data Interchange System</strong><br/><sub>Hotel Resource &amp; Supply-Chain Integration</sub><p>Collaborative hotel resource-management system connecting retail, manufacturing, and logistics through REST APIs and automated order workflows.<br/><br/><strong>My contributions:</strong> Front-end implementation, back-end integration, API endpoints, and database functionality.</p><sub>REST APIs ✦ Automation ✦ Integration</sub></td>
-<td width="16%" align="center" valign="middle"><sub>Not public yet</sub></td>
-<td width="16%" align="center" valign="middle"><sub>Not available yet</sub></td>
+<td width="16%" align="center" valign="middle"><a href="https://github.com/venuine/edi-retailer-demo">Demo Source</a></td>
+<td width="16%" align="center" valign="middle"><sub>Pages verification pending</sub></td>
 </tr>
 </tbody>
 </table>
