@@ -41,19 +41,19 @@ My projects include **e-commerce and inventory management, property catalogues, 
 <thead><tr><td colspan="4" height="1" style="padding:0"><img src="./assets/table-width-spacer.svg" width="840" height="1" alt="" /></td></tr><tr><th colspan="2" align="left">Project</th><th align="center">Source Code</th><th align="center">Live View</th></tr></thead>
 <tbody>
 <tr>
-<td width="20%" valign="middle"><img src="./assets/project-manson.svg" width="100%" alt="Decorative abstract artwork for Manson Trading"/></td>
+<td width="20%" valign="middle"><img src="./assets/screenshots/manson-trading.png" width="100%" alt="Decorative abstract artwork for Manson Trading"/></td>
 <td width="48%" valign="middle"><strong>Manson Trading</strong><br/><sub>E-Commerce &amp; Inventory Management</sub><p>E-commerce application with integrated inventory workflows and AI-powered modules for business operations.</p><sub>Commerce ✦ Inventory ✦ AI integration</sub></td>
 <td width="16%" align="center" valign="middle"><a href="https://github.com/venuine/manson-trading">Source Code</a></td>
 <td width="16%" align="center" valign="middle"><sub>Not available yet</sub></td>
 </tr>
 <tr>
-<td width="20%" valign="middle"><img src="./assets/project-trust.svg" width="100%" alt="Decorative abstract artwork for TrustHomePH"/></td>
+<td width="20%" valign="middle"><img src="./assets/screenshots/trusthome.png" width="100%" alt="Decorative abstract artwork for TrustHomePH"/></td>
 <td width="48%" valign="middle"><strong>TrustHomePH</strong><br/><sub>Bank-Acquired Property Marketplace</sub><p>Marketplace and property catalogue for browsing and organizing bank-acquired real estate.</p><sub>Marketplace ✦ Web Application</sub></td>
 <td width="16%" align="center" valign="middle"><a href="https://github.com/carilloandrei9264/team-idle">Source Code</a></td>
 <td width="16%" align="center" valign="middle"><a href="https://trusthome-ph.web.app/">Live View</a></td>
 </tr>
 <tr>
-<td width="20%" valign="middle"><img src="./assets/project-edi.svg" width="100%" alt="Decorative abstract artwork for Electronic Data Interchange System"/></td>
+<td width="20%" valign="middle"><img src="./assets/screenshots/edi-dashboard.png" width="100%" alt="Decorative abstract artwork for Electronic Data Interchange System"/></td>
 <td width="48%" valign="middle"><strong>Electronic Data Interchange System</strong><br/><sub>Hotel Resource &amp; Supply-Chain Integration</sub><p>Collaborative hotel resource-management system connecting retail, manufacturing, and logistics through REST APIs and automated order workflows.<br/><br/><strong>My contributions:</strong> Front-end implementation, back-end integration, API endpoints, and database functionality.</p><sub>REST APIs ✦ Automation ✦ Integration</sub></td>
 <td width="16%" align="center" valign="middle"><a href="https://github.com/venuine/edi-retailer-demo">Demo Source</a></td>
 <td width="16%" align="center" valign="middle"><a href="https://venuine.github.io/edi-retailer-demo/">Live View</a></td>
