@@ -35,13 +35,10 @@ A selection of completed and collaborative applications. Project-specific links 
 <td width="40%"><img src="./assets/project-manson.svg" width="100%" alt="Abstract layered application interface representing Manson Trading" /></td>
 <td valign="top">
 
-### Manson Trading
-
-**E-Commerce & Inventory Management**
-
-An e-commerce application with integrated inventory workflows and AI-powered modules designed to support business operations.
-
-<code>Web Application</code> · <code>Inventory</code> · <code>AI Integration</code>
+<h3>Manson Trading</h3>
+<p><strong>E-Commerce &amp; Inventory Management</strong></p>
+<p>An e-commerce application with integrated inventory workflows and AI-powered modules designed to support business operations.</p>
+<p><code>Web Application</code> · <code>Inventory</code> · <code>AI Integration</code></p>
 
 </td>
 </tr>
@@ -49,13 +46,10 @@ An e-commerce application with integrated inventory workflows and AI-powered mod
 <td width="40%"><img src="./assets/project-trust.svg" width="100%" alt="Abstract architectural interface representing TrustHomePH" /></td>
 <td valign="top">
 
-### TrustHomePH
-
-**Bank-Acquired Property Marketplace**
-
-A marketplace and property catalogue designed to present bank-acquired real estate through an organized browsing experience.
-
-<code>Marketplace</code> · <code>Property Catalogue</code>
+<h3>TrustHomePH</h3>
+<p><strong>Bank-Acquired Property Marketplace</strong></p>
+<p>A marketplace and property catalogue designed to present bank-acquired real estate through an organized browsing experience.</p>
+<p><code>Marketplace</code> · <code>Property Catalogue</code></p>
 
 </td>
 </tr>
@@ -63,15 +57,11 @@ A marketplace and property catalogue designed to present bank-acquired real esta
 <td width="40%"><img src="./assets/project-edi.svg" width="100%" alt="Abstract connected-systems interface representing the EDI project" /></td>
 <td valign="top">
 
-### Electronic Data Interchange System
-
-**Hotel Resource Management & Supply-Chain Integration**
-
-A collaborative system connecting hotel operations, retail, manufacturing, and logistics through REST APIs and automated order workflows.
-
-**Contributions:** Front-end implementation, back-end integrations, API endpoints, and database functionality.
-
-<code>REST APIs</code> · <code>Automation</code> · <code>Systems Integration</code>
+<h3>Electronic Data Interchange System</h3>
+<p><strong>Hotel Resource Management &amp; Supply-Chain Integration</strong></p>
+<p>A collaborative system connecting hotel operations, retail, manufacturing, and logistics through REST APIs and automated order workflows.</p>
+<p><strong>Contributions:</strong> Front-end implementation, back-end integrations, API endpoints, and database functionality.</p>
+<p><code>REST APIs</code> · <code>Automation</code> · <code>Systems Integration</code></p>
 
 </td>
 </tr>
