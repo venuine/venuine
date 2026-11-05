@@ -3,8 +3,8 @@
 <img src="./assets/ui-masthead.svg" width="100%" alt="Geometric beige, silver and gold interface border with a star emblem" />
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/greeting-static.gif" />
-  <img src="./assets/greeting-reveal.gif" width="700" alt="Oh hi! I'm Vien!" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/greeting-static.gif?v=clean2" />
+  <img src="./assets/greeting-reveal.gif?v=clean2" width="700" alt="Oh hi! I'm Vien!" />
 </picture>
 
 **Front-End Developer &nbsp; ✦ &nbsp; Web Development &nbsp; ✦ &nbsp; UI/UX &nbsp; ✦ &nbsp; System Integration**
@@ -12,8 +12,8 @@
 *Aspera ad astra*
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/diamond-static.gif" />
-  <img src="./assets/diamond-breathe.gif" width="64" alt="" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/diamond-static.gif?v=clean2" />
+  <img src="./assets/diamond-breathe.gif?v=clean2" width="64" alt="" />
 </picture>
 
 <img src="./assets/ui-masthead-footer.svg" width="100%" alt="" />
