@@ -1,10 +1,14 @@
 <div align="center">
 
-<a href="https://venuine.github.io/"><img src="./assets/profile-hero.svg" width="100%" alt="Oh hi! I'm Vien. Front-end development, UI/UX, system integration. Aspera ad astra." /></a>
+<img src="./assets/ui-masthead.svg" width="100%" alt="Geometric beige, silver and gold interface border with a star emblem" />
 
-<a href="https://venuine.github.io/"><img src="./assets/nav-portfolio.svg" width="180" alt="Visit my portfolio" /></a>
+# Oh hi! I'm Vien!
 
-<br/><br/>
+**Front-End Developer &nbsp; ✦ &nbsp; Web Development &nbsp; ✦ &nbsp; UI/UX &nbsp; ✦ &nbsp; System Integration**
+
+*Aspera ad astra*
+
+<img src="./assets/ui-masthead-footer.svg" width="100%" alt="" />
 
 <a href="#about"><img src="./assets/nav-about.svg" alt="About" width="18%" /></a> <a href="#selected-work"><img src="./assets/nav-selected-work.svg" alt="Selected Work" width="18%" /></a> <a href="#current-projects"><img src="./assets/nav-current-projects.svg" alt="Current Projects" width="18%" /></a> <a href="#tech-stack"><img src="./assets/nav-tech-stack.svg" alt="Tech Stack" width="18%" /></a> <a href="#contact"><img src="./assets/nav-contact.svg" alt="Contact" width="18%" /></a>
 
