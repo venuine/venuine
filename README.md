@@ -18,7 +18,7 @@
 
 <img src="./assets/ui-masthead-footer.svg" width="100%" alt="" />
 
-<a href="#about"><img src="./assets/nav-about.svg" alt="About" width="18%" /></a> <a href="#selected-work"><img src="./assets/nav-selected-work.svg" alt="Selected Work" width="18%" /></a> <a href="#current-projects"><img src="./assets/nav-current-projects.svg" alt="Current Projects" width="18%" /></a> <a href="#tech-stack"><img src="./assets/nav-tech-stack.svg" alt="Tech Stack" width="18%" /></a> <a href="#contact"><img src="./assets/nav-contact.svg" alt="Contact" width="18%" /></a>
+<a href="#about"><img src="./assets/nav-about.svg" alt="About" width="15%" /></a> <a href="#selected-work"><img src="./assets/nav-selected-work.svg" alt="Selected Work" width="15%" /></a> <a href="#current-projects"><img src="./assets/nav-current-projects.svg" alt="Current Projects" width="15%" /></a> <a href="#tech-stack"><img src="./assets/nav-tech-stack.svg" alt="Tech Stack" width="15%" /></a> <a href="#contact"><img src="./assets/nav-contact.svg" alt="Contact" width="15%" /></a> <a href="https://venuine.github.io/"><img src="./assets/nav-portfolio.svg" alt="Visit portfolio" width="15%" /></a>
 
 </div>
 
